@@ -36,9 +36,7 @@ This project was the culmination of my studies at Moringa School, combining my p
 *   **Key Technologies:** Python, VGG16, ResNet, CNN, Scikit-learn, Pandas, Streamlit.
 *   **Outcome:** A fully functional and deployed web application that provides real-time fashion recommendations, showcasing an end-to-end machine learning project from concept to deployment.
 
-**<font size="4">➡️ [View Deployed App on Streamlit](https://lnkd.in/dcFyUy7R)</font>**
-<br>
-**<font size="4">➡️ [View Project Code on GitHub](https://github.com/your-username/your-capstone-repo-name)</font>**
+
 
 *(This project was a collaborative effort. A special thank you to my mentors Samwel Jane, Veronica Isiaho, Everlyn Asiko Chimoto, and Mildred Kosgei, and my teammates Mwangi Nguro, Diannah Wangura, Gitari Mbogo, Naeema S Sheikh, and James Ndiritu.)*
 
@@ -56,7 +54,7 @@ This is the original, ambitious project that sparked my machine learning journey
     *   **Big Data:** Working with very large image datasets to train recognition models.
 *   **Status:** A lot of the foundational groundwork was laid out prior to and during my course. I am now actively balancing the continuation of this project with my studies, applying new skills as I learn them.
 
-**<font size="4">➡️ [View Project Concept & Progress on GitHub](https://github.com/your-username/your-3d-project-repo-name)</font>**
+
 
 ---
 
@@ -64,7 +62,7 @@ This is the original, ambitious project that sparked my machine learning journey
 
 ### Data Science Program | Moringa School
 *   A comprehensive, project-based curriculum covering everything from Python fundamentals to advanced machine learning and cloud deployment.
-*   **<font size="4">➡️ [View My Full Coursework & Assignments on GitHub](https://github.com/your-username/moringa-coursework-repo-name)</font>**
+
 
 ---
 
